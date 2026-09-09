@@ -1,17 +1,17 @@
-name: ccagg2
+name: ccagg
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - ipython
-  - joblib
-  - matplotlib
-  - numpy
-  - pandas
   - python=3.11
-  - scikit-learn
+  - numpy
   - scipy
+  - scikit-learn<1.6
+  - pandas
+  - matplotlib
   - seaborn
-  - spyder
+  - joblib
   - tqdm
-prefix: /home/jc/anaconda3/envs/ccagg2
+  - pip
+  - pip:
+      - cca-zoo>=2.6,<3.0
+      - -e .
