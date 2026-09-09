@@ -119,7 +119,9 @@ so it does not leak, but it is not fitted on train alone in the way the confound
 > methods in a scikit-learn style framework. *Journal of Open Source Software*,
 > 6(68), 3823. https://doi.org/10.21105/joss.03823
 
-If you use `ccagg` itself, please cite [paper / Zenodo DOI].
+If you use `ccagg` itself, please cite: 
+> Roy, J.-C. (2026). CCAggregate (Version v0.1.1).
+> Zenodo. https://doi.org/10.5281/zenodo.22676694
 
 ## Funding
 
