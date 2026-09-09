@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "ccagg: resampling-aggregated multiview CCA"
+authors:
+  - family-names: Roy
+    given-names: Jean-Charles
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/JChRoy/CCAggregate"
+
+references:
+  - type: article
+    title: "CCA-Zoo: A collection of Regularized, Deep Learning based, Kernel, and Probabilistic CCA methods in a scikit-learn style framework"
+    authors:
+      - family-names: Chapman
+        given-names: James
+      - family-names: Wang
+        given-names: Hao-Ting
+      - family-names: Wells
+        given-names: Lennie
+      - family-names: Wiesner
+        given-names: Johannes
+    journal: "Journal of Open Source Software"
+    volume: 6
+    issue: 68
+    start: 3823
+    year: 2021
+    doi: "10.21105/joss.03823"
