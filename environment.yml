@@ -1,0 +1,17 @@
+name: ccagg2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - joblib
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.11
+  - scikit-learn
+  - scipy
+  - seaborn
+  - spyder
+  - tqdm
+prefix: /home/jc/anaconda3/envs/ccagg2
