@@ -1,11 +1,16 @@
 cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 title: "ccagg: resampling-aggregated multiview CCA"
 authors:
   - family-names: Roy
     given-names: Jean-Charles
-version: 0.1.0
+    affiliation: "Charité – Universitätsmedizin Berlin"
+type: software
+doi: https://doi.org/10.5281/zenodo.22676694
+version: 0.1.1
+date-released: 2026-09-09
+url: "https://github.com/JChRoy/CCAggregate"
 license: MIT
-repository-code: "https://github.com/JChRoy/CCAggregate"
 
 references:
   - type: article
