@@ -104,8 +104,10 @@ For an out-of-sample participant-level score, average each participant's `test_s
 
 ## Some caveats to be aware of
 Canonical correlations in high dimensions need large samples to be stable. Reported effect sizes should come from held-out partitions.
+
 Sign and component order are indeterminate per split. Alignment uses Hungarian matching against view 0 of the first split, then a sign flip. If view 0 is
 sparse or unstable, alignment degrades. It is better to check the per-split loading correlations before trusting `average_weights`.
+
 The Gaussian copula transform, when `type="copula"`, is applied independently to train and test partitions. This enforces a distribution rather than learning parameters, 
 so it does not leak, but it is not fitted on train alone in the way the confound regression and scaling are.
 
