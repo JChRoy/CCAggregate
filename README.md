@@ -10,7 +10,7 @@ strongly biased upward.
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/CCAggregate.git
+git clone https://github.com/JChRoy/CCAggregate.git
 cd CCAggregate
 pip install -e .
 ```
