@@ -121,6 +121,15 @@ so it does not leak, but it is not fitted on train alone in the way the confound
 
 If you use `ccagg` itself, please cite [paper / Zenodo DOI].
 
+## Funding
+
+This work has received funding from the European Union's Marie Skłodowska-Curie
+Actions Postdoctoral Fellowship (HORIZON-MSCA-2024-PF-01) under grant agreement
+No 101212349 (PRE-EMHPT).
+Views and opinions expressed are however those of the author(s) only and do not
+necessarily reflect those of the European Union. Neither the European Union nor
+the granting authority can be held responsible for them.
+
 ## Licence
 [MIT / BSD-3 — choose one and add the file]
 
