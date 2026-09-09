@@ -1,0 +1,24 @@
+{
+  "title": "CCAggregate",
+  "description": "A set of Python functions for sparse and regularised canonical correlation analysis with resampling-based aggregation.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Roy, Jean-Charles",
+      "affiliation": "Charité – Universitätsmedizin Berlin"
+    }
+  ],
+  "keywords": [
+    "Multivariate Analysis",
+    "Resampling methods"
+  ],
+  "grants": [
+    { "id": "10.13039/501100000780::101212349" }
+  ],
+  "communities": [
+    { "identifier": "eu" }
+  ]
+}
