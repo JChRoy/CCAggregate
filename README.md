@@ -133,5 +133,5 @@ necessarily reflect those of the European Union. Neither the European Union nor
 the granting authority can be held responsible for them.
 
 ## Licence
-[MIT / BSD-3 — choose one and add the file]
+MIT 
 
